@@ -23,5 +23,5 @@ Before you can run this application locally or deploy it to a server, you need t
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/youtube-downloader.git
+   git clone https://github.com/h12s184/youtube-downloader.git
    cd youtube-downloader
